@@ -5,34 +5,6 @@
       "label": "Use UTC date 4",
       "description": "Use UTC conversion for dates",
       "category": "bureaucracy",
-      "done": "18-01-2023"
-    },
-    {
-      "id": 4,
-      "label": "Db updates",
-      "description": "Update the database to contain categories independently and get them",
-      "category": "bureaucracy",
-      "done": false
-    },
-    {
-      "id": 5,
-      "label": "Read service method returns",
-      "description": "Read the last todo value from service call",
-      "category": "bureaucracy",
-      "done": false
-    },
-    {
-      "id": 6,
-      "label": "Date manipulations",
-      "description": "Use current culture for date formatting",
-      "category": "bureaucracy",
-      "done": false
-    },
-    {
-      "id": 7,
-      "label": "CSS manipulations",
-      "description": "Define colors file and use from there",
-      "category": "bureaucracy",
       "done": false
     },
     {
